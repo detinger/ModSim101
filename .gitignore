@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Folders
+node_modules/
+.venv/
+bin/
+obj/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Environment variables (Sensitive!)
+.env
