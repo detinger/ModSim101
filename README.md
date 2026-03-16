@@ -25,10 +25,8 @@ Every module includes:
 
 ## Installation
 Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
-1. Clone the repository and navigate to the project directory:
-   ```bash
-   cd learning-tool
-   ```
+1. Clone the repository and navigate to the project directory
+
 2. Install the necessary dependencies:
    ```bash
    npm install
